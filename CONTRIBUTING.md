@@ -19,9 +19,9 @@ the programming languages' requirements.
 
 ## 👽 Third-party dependencies
 
-To use this module you'll need a need a Slack API token which can be retrieved
-by following the [Token Generation Instructions][token-instructions] or by
-creating a new [bot integration][bot-integration].
+To work in this project you'll need a need a Slack API token which can be
+retrieved by following the [Token Generation Instructions][token-instructions]
+or by creating a new [bot integration][bot-integration].
 
 ## 🔧 Setup
 
