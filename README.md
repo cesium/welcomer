@@ -4,7 +4,7 @@
 
 # Welcomer
 
-> 👋 A slack welcome bot for new comers
+> 👋 A slack welcome bot for newcomers
 
 ## 🤝 Contributing
 
